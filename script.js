@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
       active.forEach((card) => {
         card.classList.remove('game-app__card_active');
       });
-    }, 1500);
+    }, 500);
 
     return [];
   }

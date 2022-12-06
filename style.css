@@ -31,7 +31,7 @@
   height: 100%;
   left: 0;
   top: 0;
-  transition: ease 1s;
+  transition: ease 0.4s;
   backface-visibility: hidden;
   border-radius: 5px;
 }
